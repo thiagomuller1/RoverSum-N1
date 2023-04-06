@@ -1,11 +1,4 @@
-/*
 
-sumo_new_linha_branca.h
-
-Autor: Alberto Zilio
-Abril 2023
-
-*/
 
 #include "Arduino.h"
 #include "sumo_new_linha_branca.h"
