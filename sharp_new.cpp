@@ -1,11 +1,3 @@
-/*
-
-sharp_new.h
-
-Autor: Alberto Zilio
-Março 2023
-
-*/
 
 #include "Arduino.h"
 #include "sharp_new.h"
