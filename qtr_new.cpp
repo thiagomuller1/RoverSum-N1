@@ -1,11 +1,4 @@
-/*
 
-qtr_new.h
-
-Autor: Alberto Zilio
-Março 2023
-
-*/
 
 #include "Arduino.h"
 #include "qtr_new.h"
